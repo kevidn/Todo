@@ -45,8 +45,7 @@ Make sure you have the following installed on your local machine:
 
 For a step-by-step guide on how to build this application, check out the tutorial on YouTube:
 
-[![Todo App with React Native](![image](https://github.com/user-attachments/assets/8a459a9d-1bc5-44d4-a081-2c433fea34f6)
-)](https://youtu.be/sc7RNl2YZHY?si=TaAadZqSI8Vs8ixz)
+[![Todo App with React Native](https://i.ytimg.com/vi/sc7RNl2YZHY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfENEFOTww48eMxE5S-stekIejrg)](https://youtu.be/sc7RNl2YZHY?si=TaAadZqSI8Vs8ixz)
 
 ## Contributing
 
