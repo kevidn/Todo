@@ -30,7 +30,7 @@ Make sure you have the following installed on your local machine:
    ```
 2. Navigate to the project directory
    ```sh
-   cd todo-app-react-native
+   cd Todo-ReactNative
    ```
 3. Install the dependencies
    ```sh
